@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (short version)
+title: About
 ---
 
 
