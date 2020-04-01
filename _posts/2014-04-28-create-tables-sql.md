@@ -3,6 +3,7 @@ layout: post
 title: "How to Create Tables and Insert Data into SQL Databases"
 comments: true
 permalink: create-tables-sql
+excerpt: A personal reflection.
 ---
 
 *This is the third post in a [series of posts]({% post_url 2014-04-17-data-science-sql %})
