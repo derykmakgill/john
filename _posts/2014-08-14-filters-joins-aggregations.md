@@ -3,6 +3,7 @@ layout: post
 title: "Filters, Joins, Aggregations, and All That: A Guide to Querying in SQL"
 comments: true
 permalink: "filters-joins-aggregations"
+excerpt: Dead code elimination by convention.
 ---
 
 *This is the fourth post in a [series of posts]({% post_url 2014-04-17-data-science-sql %})
