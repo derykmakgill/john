@@ -207,6 +207,9 @@ blockquote p:last-child {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
+.powered-by-wordpress	{
+	display: none;
+	}
 }
 
 img {
