@@ -4,6 +4,7 @@ title: The pointlike Maximum-likelihood Fitting Package For Analysis Fermi-LAT D
 comments: true
 redirect_from: "/2013/02/01/pointlike/"
 permalink: pointlike-fitting-package
+excerpt: I recently migrated this website from Wordpress to Github pages using Jekyll and poole. So far I am really happy with the transition. Over time, I grew to really dislike how heavy-weight Wordpress is. I dislike how WYSIWYG editors make it really hard to see what HTML is being generated...
 ---
 
 ![The Gamma-cygni SNR observed by Fermi. This image was created in pointlike and is from http://arxiv.org/abs/1207.0027.](/assets/gamma_cygni_pointlike-940x935.jpg)
