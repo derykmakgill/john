@@ -207,9 +207,6 @@ blockquote p:last-child {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
-.powered-by-wordpress	{
-	display: none;
-	}
 }
 
 img {
@@ -511,3 +508,12 @@ figcaption .image-credit {
 .footer {
 	font-size: .8em;
 }
+
+@media (max-width: 32rem) {
+.powered-by-wordpress	{
+	display: none;
+	} 
+	
+}
+
+
