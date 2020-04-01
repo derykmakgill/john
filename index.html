@@ -13,12 +13,23 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+	  
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}" style="
+    text-decoration: none;
+">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
 
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
 	      
     {% endif %}
+	  	  
   </div>
   {% endfor %}
 </div>
