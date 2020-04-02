@@ -513,7 +513,10 @@ figcaption .image-credit {
 .powered-by-wordpress	{
 	display: none;
 	} 
+.navigation {
 	
+	float: left;
+	}
 }
 
 
