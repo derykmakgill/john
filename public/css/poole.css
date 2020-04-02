@@ -515,7 +515,7 @@ figcaption .image-credit {
 	} 
 .navigation {
 	
-	float: left;
+	float: left !important;
 	}
 }
 
