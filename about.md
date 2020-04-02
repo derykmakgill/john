@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Deryk Makgill
+title: About
 ---
 
 
