@@ -520,4 +520,7 @@ figcaption .image-credit {
 	}
 }
 
-
+.navigation a {
+	
+text-decoration: none;
+	}
